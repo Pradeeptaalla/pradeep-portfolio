@@ -16,7 +16,7 @@ const Menu = () => {
       <div className="mx-auto flex h-16 max-w-7xl items-center px-4 md:px-6">
         <Link href="/">
           <a className="text-3xl  font-bold">
-            <span>Pradeep</span>
+            <span>Portfolio</span>
             <span className="text-primary-500">.</span>
           </a>
         </Link>
