@@ -18,14 +18,14 @@ const HeroSection = () => {
       <HeroBackground />
       <div className="flex flex-col items-center">
         <div className="overflow-hidden rounded-full">
-          <Image src="/images/avatar/avatar-2.png" width={180} height={180} alt="avatar" />
+          <Image src="/images/avatar/avatar-3.png" width={180} height={180} alt="avatar" />
         </div>
         <h1 className="mt-4 text-3xl font-bold ">Taalla Pradeep</h1>
         <div className="mt-2 flex gap-1">
           {' '}
-          I'm a{' '}
+          {' '}
           <Typed
-            strings={['Fullstack Developer', 'Full Stack Java Developer', 'Full Stack Python Developer']}
+            strings={['Im a Fullstack Developer', 'Im a Full Stack Java Developer', 'Im aFull Stack Python Developer']}
             typeSpeed={60}
             backSpeed={30}
             loop
